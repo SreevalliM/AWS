@@ -389,3 +389,7 @@ Connection pooling service for RDS/Aurora.
 5. **Q: Maximum backup retention?**
    - Automated: 35 days
    - Manual snapshots: Indefinite
+
+---
+
+[← Previous: VPC](06-VPC.md) | [Back to Main Guide](README.md) | [Next: DynamoDB →](08-DynamoDB.md)

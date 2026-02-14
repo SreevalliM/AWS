@@ -649,3 +649,7 @@ First invocation or after idle period requires initialization:
 
 8. **Q: Can Lambda access VPC resources?**
    - Yes, configure VPC settings (needs ENI setup)
+
+---
+
+[← Previous: CloudTrail](11-CloudTrail.md) | [Back to Main Guide](README.md) | [Next: API Gateway →](13-API-Gateway.md)

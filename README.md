@@ -45,10 +45,20 @@ A comprehensive, topic-wise learning path to master AWS fundamentals and prepare
 
 This guide is organized into **21 comprehensive topics** across **6 parts**, designed to take you from AWS beginner to job-ready cloud engineer in **4 weeks**.
 
+### What Each Topic Includes
+
+| Section | Description |
+|---------|-------------|
+| **Concepts & Theory** | Clear explanations with comparison tables and diagrams |
+| **AWS CLI Examples** | Copy-paste-ready commands for every service |
+| **Hands-on Labs** | Step-by-step labs you can run in the AWS Free Tier |
+| **Best Practices** | Production-ready tips and common pitfalls |
+| **Interview Questions** | Frequently asked questions with detailed answers |
+
 ### How to Use This Guide
 
 1. **Sequential Learning**: Follow topics 1-21 in order for a structured learning path
-2. **Hands-on Practice**: Each topic includes practical labs and examples
+2. **Hands-on Practice**: Each topic includes practical labs and CLI examples
 3. **Time Investment**: 1-2 hours per topic (approximately 30-40 hours total)
 4. **Prerequisites**: Basic computer knowledge; no prior cloud experience needed
 
@@ -171,6 +181,6 @@ You've embarked on an exciting journey into cloud computing with AWS. Remember:
 
 ---
 
-*Last Updated: February 2026*
+*Last Updated: June 2025*
 *Created with ❤️ for AWS learners worldwide*
 

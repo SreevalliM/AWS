@@ -778,3 +778,7 @@ Remember:
 - **Be yourself** - Authenticity matters
 
 **You've got this! Your preparation will shine through!**
+
+---
+
+[← Previous: Projects](20-Projects.md) | [Back to Main Guide](README.md)

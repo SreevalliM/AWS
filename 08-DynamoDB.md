@@ -615,3 +615,7 @@ def lambda_handler(event, context):
 
 7. **Q: Maximum item size?**
    - 400 KB per item
+
+---
+
+[← Previous: RDS](07-RDS.md) | [Back to Main Guide](README.md) | [Next: Auto Scaling & Load Balancing →](09-Auto-Scaling-Load-Balancing.md)
