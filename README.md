@@ -6,7 +6,7 @@ A comprehensive, topic-wise learning path to master AWS fundamentals and prepare
 
 ## 📚 Table of Contents
 
-### Part 1: Foundation (Week 1)
+### Part 1: Foundation
 1. **[Cloud Computing Basics](01-Cloud-Computing-Basics.md)** - Understanding cloud concepts and AWS infrastructure
 2. **[AWS Account Setup](02-AWS-Account-Setup.md)** - Creating and configuring your AWS account
 3. **[IAM (Identity & Access Management)](03-IAM.md)** - Users, roles, policies, and security
@@ -14,22 +14,22 @@ A comprehensive, topic-wise learning path to master AWS fundamentals and prepare
 5. **[S3 (Simple Storage Service)](05-S3.md)** - Object storage and static website hosting
 6. **[VPC (Virtual Private Cloud)](06-VPC.md)** - Networking and security groups
 
-### Part 2: Database Services (Week 2)
+### Part 2: Database Services
 7. **[RDS (Relational Database Service)](07-RDS.md)** - Managed relational databases
 8. **[DynamoDB (NoSQL Database)](08-DynamoDB.md)** - Serverless NoSQL database
 
-### Part 3: Scaling & Monitoring (Week 2)
+### Part 3: Scaling & Monitoring
 9. **[Auto Scaling & Load Balancing](09-Auto-Scaling-Load-Balancing.md)** - High availability and elasticity
 10. **[CloudWatch (Monitoring)](10-CloudWatch.md)** - Metrics, logs, and alarms
 11. **[CloudTrail (Auditing)](11-CloudTrail.md)** - API auditing and compliance
 
-### Part 4: Serverless & DevOps (Week 3)
+### Part 4: Serverless & DevOps
 12. **[Lambda (Serverless Computing)](12-Lambda.md)** - Function-as-a-Service and event-driven architecture
 13. **[API Gateway](13-API-Gateway.md)** - RESTful APIs and HTTP endpoints
 14. **[Infrastructure as Code](14-Infrastructure-as-Code.md)** - CloudFormation and Terraform
 15. **[CI/CD Pipeline](15-CI-CD-Pipeline.md)** - Automated deployment and testing
 
-### Part 5: Advanced Topics (Week 4)
+### Part 5: Advanced Topics
 16. **[Security & Compliance](16-Security-Compliance.md)** - KMS, WAF, GuardDuty, and compliance
 17. **[Cost Optimization](17-Cost-Optimization.md)** - Cost management and optimization strategies
 18. **[Well-Architected Framework](18-Well-Architected-Framework.md)** - 5 pillars of AWS best practices
@@ -43,7 +43,7 @@ A comprehensive, topic-wise learning path to master AWS fundamentals and prepare
 
 ## 🎯 Learning Path Overview
 
-This guide is organized into **21 comprehensive topics** across **6 parts**, designed to take you from AWS beginner to job-ready cloud engineer in **4 weeks**.
+This guide is organized into **21 comprehensive topics** across **6 parts**, designed to take you from AWS beginner to job-ready cloud engineer.
 
 ### What Each Topic Includes
 
@@ -61,29 +61,6 @@ This guide is organized into **21 comprehensive topics** across **6 parts**, des
 2. **Hands-on Practice**: Each topic includes practical labs and CLI examples
 3. **Time Investment**: 1-2 hours per topic (approximately 30-40 hours total)
 4. **Prerequisites**: Basic computer knowledge; no prior cloud experience needed
-
-### Weekly Breakdown
-
-**Week 1 (Foundation)** - Topics 1-6
-- Set up AWS account
-- Master IAM, EC2, S3, VPC
-- Build first web application
-
-**Week 2 (Databases & Monitoring)** - Topics 7-11
-- Learn RDS and DynamoDB
-- Implement Auto Scaling
-- Monitor with CloudWatch
-
-**Week 3 (Serverless & DevOps)** - Topics 12-15
-- Build serverless applications
-- Create CI/CD pipelines
-- Infrastructure as Code
-
-**Week 4 (Advanced & Career)** - Topics 16-21
-- Security and compliance
-- Cost optimization
-- Complete real projects
-- Interview preparation
 
 ---
 

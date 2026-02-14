@@ -1,10 +1,10 @@
 # 📚 AWS Learning Guide — Complete Topic Index
 
-A detailed index of all 21 topics covered in this learning repository, organized by module and week.
+A detailed index of all 21 topics covered in this learning repository, organized by module.
 
 ---
 
-## Part 1: Foundation (Week 1)
+## Part 1: Foundation
 
 | # | Topic | File | Key Concepts |
 |---|-------|------|--------------|
@@ -15,14 +15,14 @@ A detailed index of all 21 topics covered in this learning repository, organized
 | 05 | 📦 S3 | [05-S3.md](05-S3.md) | Storage classes, Versioning, Lifecycle rules, Static website hosting, Replication |
 | 06 | 🌐 VPC | [06-VPC.md](06-VPC.md) | Subnets, Route Tables, IGW, NAT Gateway, NACLs, VPC Peering, Endpoints |
 
-## Part 2: Database Services (Week 2)
+## Part 2: Database Services
 
 | # | Topic | File | Key Concepts |
 |---|-------|------|--------------|
 | 07 | 🗄 RDS | [07-RDS.md](07-RDS.md) | Multi-AZ, Read Replicas, Backups, Aurora, RDS Proxy |
 | 08 | ⚡ DynamoDB | [08-DynamoDB.md](08-DynamoDB.md) | Partition/Sort keys, GSI/LSI, Capacity modes, Streams, DAX, Global Tables |
 
-## Part 3: Scaling & Monitoring (Week 2)
+## Part 3: Scaling & Monitoring
 
 | # | Topic | File | Key Concepts |
 |---|-------|------|--------------|
@@ -30,7 +30,7 @@ A detailed index of all 21 topics covered in this learning repository, organized
 | 10 | 📈 CloudWatch | [10-CloudWatch.md](10-CloudWatch.md) | Metrics, Logs, Alarms, Dashboards, EventBridge, Custom Metrics |
 | 11 | 🔍 CloudTrail | [11-CloudTrail.md](11-CloudTrail.md) | API auditing, Management/Data events, Insights, Compliance |
 
-## Part 4: Serverless & DevOps (Week 3)
+## Part 4: Serverless & DevOps
 
 | # | Topic | File | Key Concepts |
 |---|-------|------|--------------|
@@ -39,7 +39,7 @@ A detailed index of all 21 topics covered in this learning repository, organized
 | 14 | 🏗️ Infrastructure as Code | [14-Infrastructure-as-Code.md](14-Infrastructure-as-Code.md) | CloudFormation, Terraform, Stacks, Change Sets |
 | 15 | 🔄 CI/CD Pipeline | [15-CI-CD-Pipeline.md](15-CI-CD-Pipeline.md) | CodeCommit, CodeBuild, CodeDeploy, CodePipeline |
 
-## Part 5: Advanced Topics (Week 4)
+## Part 5: Advanced Topics
 
 | # | Topic | File | Key Concepts |
 |---|-------|------|--------------|
@@ -57,39 +57,39 @@ A detailed index of all 21 topics covered in this learning repository, organized
 
 ---
 
-## 🎯 Day-by-Day Learning Path
+## 🎯 Learning Path
 
-### Week 1: Foundations (Topics 1–6)
-| Day | Topics | Activities |
-|-----|--------|------------|
-| 1–2 | Cloud Basics + Account Setup | Create AWS account, enable billing alerts, explore console |
-| 3–4 | IAM + EC2 | Create IAM users/roles/policies, launch EC2, SSH into instance |
-| 5–6 | S3 + VPC | Host static website on S3, build custom VPC with public/private subnets |
-| 7 | **Mini Project 1** | Deploy a web server on EC2 inside a custom VPC |
+### Part 1: Foundation (Topics 1–6)
+| Topics | Activities |
+|--------|------------|
+| Cloud Basics + Account Setup | Create AWS account, enable billing alerts, explore console |
+| IAM + EC2 | Create IAM users/roles/policies, launch EC2, SSH into instance |
+| S3 + VPC | Host static website on S3, build custom VPC with public/private subnets |
+| **Mini Project 1** | Deploy a web server on EC2 inside a custom VPC |
 
-### Week 2: Databases & Monitoring (Topics 7–11)
-| Day | Topics | Activities |
-|-----|--------|------------|
-| 8–9 | RDS + DynamoDB | Launch MySQL RDS, create DynamoDB table with GSI, test CRUD |
-| 10–11 | Auto Scaling + CloudWatch | Create ASG with ALB, set up CloudWatch alarms and dashboards |
-| 12–13 | CloudTrail + Review | Enable CloudTrail, review logs, revisit weak areas |
-| 14 | **Mini Project 2** | Build a load-balanced, auto-scaling web app with monitoring |
+### Part 2: Databases & Monitoring (Topics 7–11)
+| Topics | Activities |
+|--------|------------|
+| RDS + DynamoDB | Launch MySQL RDS, create DynamoDB table with GSI, test CRUD |
+| Auto Scaling + CloudWatch | Create ASG with ALB, set up CloudWatch alarms and dashboards |
+| CloudTrail + Review | Enable CloudTrail, review logs, revisit weak areas |
+| **Mini Project 2** | Build a load-balanced, auto-scaling web app with monitoring |
 
-### Week 3: Serverless & DevOps (Topics 12–15)
-| Day | Topics | Activities |
-|-----|--------|------------|
-| 15–16 | Lambda + API Gateway | Create Lambda functions, build REST API with API Gateway |
-| 17 | **Mini Project 3** | Serverless CRUD API (Lambda + API Gateway + DynamoDB) |
-| 18–19 | IaC + CI/CD | Write CloudFormation template, set up CodePipeline |
-| 20–21 | **Mini Project 4** | Deploy app via CI/CD pipeline |
+### Part 3: Serverless & DevOps (Topics 12–15)
+| Topics | Activities |
+|--------|------------|
+| Lambda + API Gateway | Create Lambda functions, build REST API with API Gateway |
+| **Mini Project 3** | Serverless CRUD API (Lambda + API Gateway + DynamoDB) |
+| IaC + CI/CD | Write CloudFormation template, set up CodePipeline |
+| **Mini Project 4** | Deploy app via CI/CD pipeline |
 
-### Week 4: Advanced & Career (Topics 16–21)
-| Day | Topics | Activities |
-|-----|--------|------------|
-| 22–23 | Security + Cost Optimization | Review KMS, WAF, GuardDuty; analyze costs |
-| 24–25 | Well-Architected + DR | Study 5 pillars, design DR strategy |
-| 26–27 | Interview Prep + Architecture Design | Practice scenario questions, draw architecture diagrams |
-| 28–30 | **Capstone Project** | Three-tier application (Project 5 in [20-Projects.md](20-Projects.md)) |
+### Part 4: Advanced & Career (Topics 16–21)
+| Topics | Activities |
+|--------|------------|
+| Security + Cost Optimization | Review KMS, WAF, GuardDuty; analyze costs |
+| Well-Architected + DR | Study 5 pillars, design DR strategy |
+| Interview Prep + Architecture Design | Practice scenario questions, draw architecture diagrams |
+| **Capstone Project** | Three-tier application (Project 5 in [20-Projects.md](20-Projects.md)) |
 
 ---
 
